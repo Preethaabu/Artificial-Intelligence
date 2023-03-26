@@ -1,0 +1,31 @@
+.board{
+
+    border:3px solid black;
+    margin:0 auto;
+    width: fit-content;
+    padding: 10px;
+    border-collapse:collapse;
+}
+td{
+    width:10px;
+    height: 10px;
+    padding: 0px;
+    border-collapse:collapse;
+}
+table,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.lost{
+    color: red;
+}
+.won{
+    color: green;
+}
+.NoDeco{
+    text-decoration: none;
+    color: white;
+}
+.title {
+    text-align: center;
+}
